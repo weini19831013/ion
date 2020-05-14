@@ -30,7 +30,7 @@ require (
 	github.com/tjfoc/gmsm v1.3.0 // indirect
 	github.com/xtaci/kcp-go v5.4.20+incompatible
 	github.com/xtaci/lossyconn v0.0.0-20200209145036-adba10fffc37 // indirect
-	go.etcd.io/etcd v3.3.18+incompatible
+	go.etcd.io/etcd v3.4.7+incompatible
 	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
